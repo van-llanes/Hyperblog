@@ -4,3 +4,4 @@ Freddy vega tiene 33 años y nacio en Colombia,
 viviendo en todo el mundo.
 
 Mañana nos enfocaremos en su vida laboral
+.
